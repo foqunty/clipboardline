@@ -17,7 +17,7 @@ swift scripts/check-strings.swift
 bash scripts/build-community.sh
 ```
 
-The last command creates `build/ClipBoardLine Dev.app` for your Mac's architecture. It does not install or launch it. The development app is ad-hoc signed, uses bundle identifier `org.clipboardline.community`, and stores history separately at `~/Library/Application Support/ClipBoardLine Dev/Screenshots/`. Link enrichment defaults to off in this build. Official in-app updates are deliberately unavailable in this separate build. Download the signed official application from the [public releases](https://github.com/orkunisitmak/clipboardline-app/releases) if you want that update channel.
+The last command creates `build/ClipBoardLine Dev.app` for your Mac's architecture. It does not install or launch it. The development app is ad-hoc signed, uses bundle identifier `org.clipboardline.community`, and stores history separately at `~/Library/Application Support/ClipBoardLine Dev/Screenshots/`. Link enrichment defaults to off in this build. Official in-app updates are deliberately unavailable in this separate build. Download the signed official application from the [public releases](https://github.com/orkunisitmak/clipboardline/releases) if you want that update channel.
 
 Optional semantic image search models can be bundled explicitly:
 
