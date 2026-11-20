@@ -1,5 +1,15 @@
 # ClipBoardLine
 
+> **About this fork (NEXA Fellowship, Week 3):** I built the macOS version from source (`swift test`: 692 tests passed) and tried it on my Mac. I also fixed the old repo names in README, README.tr and CONTRIBUTING.
+>
+> Shelves at the top and the Library window with two pinned screenshots:
+>
+> ![ClipBoardLine Library and shelves](docs/fork-screenshots/library-and-shelf.png)
+>
+> Shelves over a browser window:
+>
+> ![ClipBoardLine shelves](docs/fork-screenshots/shelf.png)
+
 **A place for everything you copy.**
 
 Images, text and links, close at hand. Keep recent copies on three shelves, save what matters in a local Library, and move through it all with your keyboard.
